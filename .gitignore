@@ -3,3 +3,6 @@
 node_modules/
 # other stuff
 .DS_Store
+
+build/
+.netlify
